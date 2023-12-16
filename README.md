@@ -39,7 +39,7 @@ Nesse campo pode ser descrito um pequeno tutorial de como terceiros podem starta
 
 -> Tech Lider:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](INDICAR O LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]
 
 -> Analista de Requisitos:
 
